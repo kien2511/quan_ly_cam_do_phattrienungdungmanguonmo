@@ -127,6 +127,10 @@ php nhận được dữ liệu
 <img width="1918" height="883" alt="image" src="https://github.com/user-attachments/assets/693e4e44-d63f-40b7-97ac-7a85956d93ea" />
 
 
+kết quả 
+
+<img width="1868" height="877" alt="image" src="https://github.com/user-attachments/assets/53079f99-ee44-4f50-81a1-728d8461bbc9" />
+
 
 
 
